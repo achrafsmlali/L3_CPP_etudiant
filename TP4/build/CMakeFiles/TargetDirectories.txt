@@ -1,0 +1,3 @@
+/etudiants/asmlali/C++/L3_CPP_etudiant/TP4/build/CMakeFiles/main.out.dir
+/etudiants/asmlali/C++/L3_CPP_etudiant/TP4/build/CMakeFiles/main_doubler21.out.dir
+/etudiants/asmlali/C++/L3_CPP_etudiant/TP4/build/CMakeFiles/main_test.out.dir

@@ -1,0 +1,20 @@
+#ifndef LIGNE_HPP_
+#define LIGNE_HPP_
+#include "Point.hpp"
+#include "FigureGeometrique.hpp"
+
+class Ligne:public FigureGeometrique {
+public:
+  Point _p0,_p1;
+public:
+  Ligne(Couleur couleur ,Point p0,Point p1);
+  void affiche()override;
+  Point getP0()const;
+  Point getP1()const;
+}; 
+
+
+
+
+
+#endif

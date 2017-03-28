@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/etudiants/asmlali/C++/L3_CPP_etudiant/TP5/src/Doubler.cpp
+Doubler.hpp
+/etudiants/asmlali/C++/L3_CPP_etudiant/TP5/src/Doubler.hpp
+
+/etudiants/asmlali/C++/L3_CPP_etudiant/TP5/src/Doubler.hpp
+
+/etudiants/asmlali/C++/L3_CPP_etudiant/TP5/src/Doubler_test.cpp
+CppUTest/CommandLineTestRunner.h
+-
+Doubler.hpp
+/etudiants/asmlali/C++/L3_CPP_etudiant/TP5/src/Doubler.hpp
+
+/etudiants/asmlali/C++/L3_CPP_etudiant/TP5/src/main_test.cpp
+CppUTest/CommandLineTestRunner.h
+-
+

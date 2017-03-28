@@ -1,0 +1,15 @@
+#ifndef VIEWERFIGURES_HPP_
+#define VIEWERFIGURES_HPP_
+
+
+
+class ViewerFigures{
+
+
+};
+
+
+
+
+#endif
+

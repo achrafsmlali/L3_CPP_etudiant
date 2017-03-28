@@ -1,0 +1,18 @@
+# include <iostream>
+#include "ViewerFigures.hpp"
+#include <gtkmm.h>
+#include "ZoneDessin.hpp"
+
+
+int main(int argc, char ** argv){
+
+  ViewerFigures v{argc,argv};
+  v.run();
+
+  ZoneDessin z;
+  int y=3;
+  z.on_expose_event(&y);
+  
+
+  return 0;
+}

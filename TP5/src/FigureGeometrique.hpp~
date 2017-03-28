@@ -1,0 +1,12 @@
+#ifndef FIG_HPP_
+#define FIG_HPP_
+#include "Couleur.hpp"
+class FigureGeometrique {
+private:
+  Couleur _couleur;
+public:
+  FigureGeometrique(Couleur couleur );
+   Couleur getCouleur()const;
+   virtual void affiche();
+};
+#endif
